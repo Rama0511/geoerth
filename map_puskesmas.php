@@ -34,13 +34,12 @@
                 <h1 class="text-2xl font-bold">GeoEarth</h1>
             </div>
             <nav class="text-gray-300 text-base font-semibold px-4 py-2">
-                <a href="beranda.html" class="flex items-center py-2.5 px-4 rounded hover:bg-gray-700"><i class="fa-solid fa-house mr-3"></i><span class="overflow-hidden text-ellipsis whitespace-nowrap">Beranda</span></a>
+                <a href="beranda.php" class="flex items-center py-2.5 px-4 rounded hover:bg-gray-700"><i class="fa-solid fa-house mr-3"></i><span class="overflow-hidden text-ellipsis whitespace-nowrap">Beranda</span></a>
                 <a href="map.php" class="flex items-center py-2.5 px-4 rounded hover:bg-gray-700 text-[#FFFF00]"><i class="fa-solid fa-map mr-3"></i><span class="overflow-hidden text-ellipsis whitespace-nowrap">Map</span></a>
                 <a href="kontak_kami.html" class="flex items-center py-2.5 px-4 rounded hover:bg-gray-700"><i class="fa-solid fa-people-group mr-3"></i><span class="overflow-hidden text-ellipsis whitespace-nowrap">Kontak Kami</span></a>
             </nav>
             <div class="absolute bottom-0 text-gray-300 text-sm font-semibold px-4 py-2">
-                <a href="#" class="flex items-center py-2.5 px-4 rounded hover:bg-gray-700"><i class="fa-solid fa-circle-user mr-3"></i><span class="overflow-hidden text-ellipsis">Administrator</span></a>
-                <a href="#" class="flex items-center py-2.5 px-4 rounded hover:bg-gray-700"><i class="fa-solid fa-arrow-right-from-bracket mr-3"></i><span class="overflow-hidden text-ellipsis whitespace-nowrap">Logout</span></a>
+                <a href="login.php" class="flex items-center py-2.5 px-4 rounded hover:bg-gray-700"><i class="fa-solid fa-arrow-right-from-bracket mr-3"></i><span class="overflow-hidden text-ellipsis whitespace-nowrap">Logout</span></a>
             </div>
         </div>
 
